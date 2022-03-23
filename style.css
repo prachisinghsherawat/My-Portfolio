@@ -928,4 +928,8 @@ body {
     margin-top: 4%;
     height: 100%;
   }
+  
+   #myProjects{
+    margin-bottom: -25%;
+  }
 }
