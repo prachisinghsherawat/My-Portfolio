@@ -727,6 +727,13 @@ body {
   margin-bottom: 6%;
 }
 
+.socialIconImage {
+  height: 35%;
+  width: 40%;
+  margin-left: 5%;
+  margin-bottom: 6%;
+}
+
 #jsicon {
   height: 15%;
   width: 18%;
